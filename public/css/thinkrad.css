@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+}
+
+.stretch {
+  width: 100%;
+  display: block;
+}
+
+#thinkbars {
+  background: url('../img/thinkbars.png') repeat-x;
+  height: 30px;
+}
+
+.stretch95 {
+  width: 95%;
+  display:block;
+  padding:5%;
+}
+
+#slideshow { 
+  margin: 50px auto; 
+  position: relative; 
+  width: 95%; 
+  padding: 10px; 
+  box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+}

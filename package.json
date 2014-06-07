@@ -1,0 +1,22 @@
+{
+  "name": "thinkrad.net",
+  "version": "0.0.1",
+  "description": "thinkrad.net ============",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thinkrad/thinkrad.net.git"
+  },
+  "author": "Allan Lavell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkrad/thinkrad.net/issues"
+  },
+  "homepage": "https://github.com/thinkrad/thinkrad.net",
+  "dependencies": {
+    "connect": "^2.19.4"
+  }
+}
