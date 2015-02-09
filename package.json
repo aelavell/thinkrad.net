@@ -1,22 +1,15 @@
 {
   "name": "thinkrad.net",
-  "version": "0.0.1",
-  "description": "thinkrad.net ============",
-  "main": "server.js",
+  "version": "4.2.0",
+  "description": "ThinkRad",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/thinkrad/thinkrad.net.git"
+   "dependencies": {
+    "express": "~4.9.x"
   },
-  "author": "Allan Lavell",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/thinkrad/thinkrad.net/issues"
-  },
-  "homepage": "https://github.com/thinkrad/thinkrad.net",
-  "dependencies": {
-    "connect": "^2.19.4"
+  "engines": {
+    "node": "0.10.x"
   }
 }
