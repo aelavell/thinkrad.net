@@ -29,3 +29,11 @@ body {
 #glitchMovie {
   margin-top: 6px;
 }
+
+a {
+  color: #469AEA;
+}
+
+a:hover {
+  color: #54acff;
+}
